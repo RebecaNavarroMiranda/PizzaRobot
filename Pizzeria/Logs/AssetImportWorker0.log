@@ -1,0 +1,173 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19045.3996; Version 2009; 64bit' Language: 'es' Physical Memory: 32691 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/PizzaRobot/Pizzeria
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52642
+Successfully changed project path to: D:/PizzaRobot/Pizzeria
+D:/PizzaRobot/Pizzeria
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 30.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/PizzaRobot/Pizzeria/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA Quadro P1000 (ID=0x1cb1)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   31.0.15.1640
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56816
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002968 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 30.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.619 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000916 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.041 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 1.944600 ms (FindLiveObjects: 0.169100 ms CreateObjectMapping: 0.049100 ms MarkObjects: 1.634100 ms  DeleteObjects: 0.090800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025e4f587c23674256bb898581e82961') in 0.010423 seconds
+  Import took 0.012854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.407277 seconds.
+  path: Assets/Modelos
+  artifactKey: Guid(832a59c304cce5747862401cbf4e4cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos using Guid(832a59c304cce5747862401cbf4e4cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0525df1a9b1ea85998ff86b3d00a1b63') in 0.010770 seconds
+  Import took 0.013426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001602 seconds.
+  path: Assets/Modelos
+  artifactKey: Guid(832a59c304cce5747862401cbf4e4cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos using Guid(832a59c304cce5747862401cbf4e4cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0525df1a9b1ea85998ff86b3d00a1b63') in 0.002209 seconds
+  Import took 0.004188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.766315 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(28fc5380ffd4b3b4ab00d3148b574dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(28fc5380ffd4b3b4ab00d3148b574dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '772637e11978d3ebe4b9f7fbcfc9957c') in 0.009203 seconds
+  Import took 0.012053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001465 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(28fc5380ffd4b3b4ab00d3148b574dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(28fc5380ffd4b3b4ab00d3148b574dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '772637e11978d3ebe4b9f7fbcfc9957c') in 0.002358 seconds
+  Import took 0.005416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.081001 seconds.
+  path: Assets/Texturas
+  artifactKey: Guid(6f0c74742870a4348b97d36338b4fc71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas using Guid(6f0c74742870a4348b97d36338b4fc71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '118721cf8134dabd4d570d2f4b6c5623') in 0.009837 seconds
+  Import took 0.011990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.019750 seconds.
+  path: Assets/Modelos/Escenario
+  artifactKey: Guid(f09c79faa0d50da40b76ccd709fc0264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Escenario using Guid(f09c79faa0d50da40b76ccd709fc0264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0aa64a61ec4ad258f45cea9748a68bc') in 0.008563 seconds
+  Import took 0.010795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.089058 seconds.
+  path: Assets/Modelos/Maquinas
+  artifactKey: Guid(84895a0c053ab524d985a640976cdc95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Maquinas using Guid(84895a0c053ab524d985a640976cdc95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef1634e760549326807e8df25f517ac0') in 0.008820 seconds
+  Import took 0.011120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.937235 seconds.
+  path: Assets/Modelos/Ingredientes
+  artifactKey: Guid(7c63e45e765143b4d9a3fabecbe1bb7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Ingredientes using Guid(7c63e45e765143b4d9a3fabecbe1bb7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2a64ef910059c048b7190377886e5d6') in 0.008592 seconds
+  Import took 0.010760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.205532 seconds.
+  path: Assets/Modelos/Maquinas/maquina mapeado.fbx
+  artifactKey: Guid(3ac6ae52cb4dc2b449b8d55076a1e129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Maquinas/maquina mapeado.fbx using Guid(3ac6ae52cb4dc2b449b8d55076a1e129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16872f0a1b26f1929aab0f9b7ece9f69') in 0.480362 seconds
+  Import took 0.482832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.691622 seconds.
+  path: Assets/Modelos/Maquinas/RECIPIENTE 2 MAPEADO.fbx
+  artifactKey: Guid(a21e51fc663ce54458c1c6763f81e31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Maquinas/RECIPIENTE 2 MAPEADO.fbx using Guid(a21e51fc663ce54458c1c6763f81e31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '889074c5a7658c26ffbd3a298b8a608f') in 0.038450 seconds
+  Import took 0.040918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.625811 seconds.
+  path: Assets/Modelos/Escenario/silla mapeada.fbx
+  artifactKey: Guid(957c947c0b5826d4e9fb4954525f93a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Escenario/silla mapeada.fbx using Guid(957c947c0b5826d4e9fb4954525f93a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6d58c58ba97eda3aea9c50e5b262ed3') in 0.301627 seconds
+  Import took 0.303959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.239514 seconds.
+  path: Assets/Modelos/Escenario/mesa mapeada.fbx
+  artifactKey: Guid(f7fbd6dde2cda9845895c0fcb68d9fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Escenario/mesa mapeada.fbx using Guid(f7fbd6dde2cda9845895c0fcb68d9fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91b7bd0bf3dee0f426385156e7489ded') in 0.046596 seconds
+  Import took 0.048967 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
